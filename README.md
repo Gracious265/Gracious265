@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Gracious265
+- 👋 Hi, I’m @Gracious Nguwo
 - 👀 I’m interested in web development, mobile app development and ML
+- 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate on react js , node and django projects
 - 📫 reach me on hello@gracicousnguwo.com
 
