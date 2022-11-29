@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Gracious Nguwo
 - 👀 I’m interested in web development, mobile app development and ML
 - 🌱 I’m currently learning everything 🤣
-- 💞️ I’m looking to collaborate on react js , node and django projects
+- 💞️ I’m looking to collaborate on react js , nodejs and django projects
 - 📫 reach me on hello@gracicousnguwo.com
 
 ### Languages and Tools:
