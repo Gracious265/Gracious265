@@ -1,7 +1,7 @@
 ### About Me
 
 - 👋 Hi, I’m Gracious Nguwo
-- 👀 I’m interested in web development, mobile app development and ML
+- 👀 I’m interested in web development, mobile app development and Machine Learning
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate on react js , nodejs and django projects
 - 📫 reach me on hello@gracicousnguwo.com
