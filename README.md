@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development, Mobile App Development and Machine Learning
 - 🌱 I’m currently learning everything😄
 - 💞️ I’m looking to collaborate on React Js , NodeJs and Django projects
-- 📫 reach me on hello@graciousnguwo.com
+
 
 ### Languages and Tools:
 
